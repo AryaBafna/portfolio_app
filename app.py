@@ -795,7 +795,7 @@ def render_about_me():
     with col2:
         pass
     with col3:
-        st.title('Hi, I am Vijayram! 👋')
+        st.title('Hi, I am Arya! 👋')
         st.write('''
     I'm Vijayram Patel, a Master's in Information student at UW-Madison specializing in data engineering and analytics.
     I am an AWS certified Data Engineer with professional experience in both research and industry settings, I transform complex data into actionable insights using Python, SQL, AWS, and various data visualization tools.
