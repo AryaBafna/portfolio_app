@@ -25,26 +25,26 @@ def side_page():
 
     st.markdown("""
     <style>
-        .main {
+        .main {{
             text-align: center;
-        }
-        .profile-img {
+        }}
+        .profile-img {{
             width: 200px;
             height: 200px;
             border-radius: 50%;
             object-fit: cover;
             border: 3px solid #333;
-        }
-        .name {
+        }}
+        .name {{
             font-size: 2rem;
             font-weight: bold;
-        }
-        .title {
+        }}
+        .title {{
             color: #aaa;
-        }
-        .contact-item {
+        }}
+        .contact-item {{
             margin-top: 1rem;
-        }
+        }}
     </style>
     <div class="main">
         <div><img src="data:image/png;base64,{0}" class="profile-img"></div>
